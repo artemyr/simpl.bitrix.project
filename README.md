@@ -1,1 +1,1 @@
-# simpl.bitrix.project
+# doccity.ru
