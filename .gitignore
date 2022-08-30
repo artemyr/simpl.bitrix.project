@@ -1,0 +1,14 @@
+/bitrix/
+/upload/
+/html/
+/test/
+/.idea/
+/local/modules/
+
+*.jpg
+*.jpeg
+*.png
+*.xml
+*.svg
+*.rar
+*.zip
